@@ -1,0 +1,30 @@
+
+#runaway{
+    color:black;
+    width: 20%;
+    height: 10%;
+    padding: 2%;
+    background-color: cornsilk;
+    top:60%;
+    left:55%;
+    
+    
+    position: absolute;
+}
+
+#yes{
+    color:black;
+    width: 20%;
+    height: 10%;
+    padding: 2.5px;
+    background-color: cornsilk;
+
+    top: 60%;
+    left:25%;
+
+    position: absolute;
+}
+#question{
+    top: 25%;;
+    color:rgb(228, 238, 248);
+}
